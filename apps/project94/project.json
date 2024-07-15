@@ -1,9 +1,0 @@
-{
-  "name": "project94",
-  "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "apps/project94/src",
-  "projectType": "application",
-  "tags": [],
-  "// targets": "to see all targets run: nx show project project94 --web",
-  "targets": {}
-}
